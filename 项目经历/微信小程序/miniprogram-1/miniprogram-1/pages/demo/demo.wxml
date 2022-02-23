@@ -1,0 +1,10 @@
+<view wx:for="{{list}}">eewew</view>
+<block wx:for="{{list}}">
+<view>frrswfde</view>
+</block>
+<view wx:if="{{true}}">1111</view>
+<view wx:elif="{{false}}">2222</view>
+<view wx:else="{{true}}">3333</view>
+<view wx:if="{{true}}">4444</view>
+<input type="text" bindinput="onInput"/>
+<button bindtap="addmoney" data-id="{{id}}">点击，多亿元</button>

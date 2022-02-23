@@ -1,0 +1,17 @@
+/* pages/wxssdemo/wxssdemo.wxss */
+.class1{
+  background-color:yellow;
+}
+#id2{
+  background-color:red;
+  text-align: center;
+}
+view{
+  text-align:center;
+  width: 100px;
+  height: 100px;
+}
+.bgcolor-green{
+background-color:green;
+}
+

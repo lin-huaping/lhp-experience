@@ -1,0 +1,5 @@
+<view>
+  {{a+b}}+{{c+d}}
+</view>
+<view wx:if="{{!ifqs}}">gyfrgtjyjfryt</view>
+<view wx:if="{{ifqs}}">drgt5ejydr</view>

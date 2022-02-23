@@ -1,0 +1,8 @@
+<swiper indicator-dots="{{dotscontroll}}" autoplay="{{tag}}"
+interval="{{time}}" duration="{{time2}}">
+  <swiper-item wx:for="{{imgurlist}}"><image src="{{item}}"></image></swiper-item>
+</swiper>
+<switch bindchange="swiperchange">控制面板</switch>
+<switch bindchange="swiperchange2">自动播放</switch>
+<slider min="0" max="5000" show-value="{{true}}" bindchanging="changeslider">播放时长 </slider>
+<slider min="0" max="500" show-value="{{true}}" bindchanging="changeslider2">动画切换 </slider>

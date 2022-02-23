@@ -1,0 +1,7 @@
+<view id="name{{content}}" class="ss{{content}}">
+  {{str}}
+  rfrgdfg
+</view>
+<view hidden="{{a2>a1?true:false}}">
+  你是哪个
+</view>
